@@ -1,0 +1,610 @@
+title,employer,location,rating,easy_apply,career_opportunities_rating,comp_and_benefits_rating,culture_and_values_rating,senior_management_rating,work_life_balance_rating,company_size,company_type,company_sector,company_founded,company_industry,company_revenue,age,district,python_keyword,ai_keyword,java_keyword,javascript_keyword,c++_keyword,react_keyword,sql_keyword,aws_keyword,git_keyword
+Other,Boston Consulting Group,Tel Aviv,4,0,4,4,4,4,3.1,10000+ Employees,Company - Private,Management & Consulting,1963,Business Consulting,$5 to $10 billion (USD),60,Tel Aviv,0,0,0,0,0,0,0,0,1
+Software Engineer,Nym Health,Tel Aviv,-1,1,4,4,3,2,4.4,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,Unknown,Company - Public,Information Technology,-1,Computer Hardware Development,$10+ billion (USD),-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,Oski Technology,Tel Aviv,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Tel Aviv,1,0,0,0,1,0,0,0,0
+Software Engineer,Innovid,Tel Aviv,4,0,3,3,4,4,4.5,201 to 500 Employees,Company - Public,Information Technology,2007,Internet & Web Services,$25 to $100 million (USD),16,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,Appdome,Tel Aviv,3,0,3,3,3,3,3.5,51 to 200 Employees,Company - Private,Information Technology,2012,Software Development,Unknown / Non-Applicable,11,Tel Aviv,1,0,1,0,1,0,0,0,0
+Engineer,lusha,Tel Aviv,3,0,3,3,3,3,3.8,201 to 500 Employees,Company - Private,Information Technology,2016,Software Development,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Wiliot,Israel,4,1,4,4,4,4,4.4,1 to 50 Employees,Company - Private,Information Technology,2017,Computer Hardware Development,Unknown / Non-Applicable,6,Israel,0,1,0,0,0,0,0,0,1
+(Data) Analyst,OGC Global,Tel Aviv,5,1,5,4,5,5,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,lusha,Tel Aviv,3,0,3,3,3,3,3.8,201 to 500 Employees,Company - Private,Information Technology,2016,Software Development,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Pulsenmore,Ramat Gan,-1,1,5,5,5,5,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,0,0,0,0,0,0,0,0
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Personetics,Giv`atayim,-1,1,3,3,3,3,3.3,51 to 200 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,$1 to $5 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Developer,Invaya,Herzliya,3,0,2,3,3,2,2.6,51 to 200 Employees,Company - Private,Transportation & Logistics,2010,Taxi & Car Services,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,NetApp,Tel Aviv,4,0,3,4,4,3,4.3,10000+ Employees,Company - Public,Information Technology,1992,Enterprise Software & Network Solutions,$5 to $10 billion (USD),31,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Capitolis,Tel Aviv,4,1,4,4,3,3,4.0,51 to 200 Employees,Company - Private,Financial Services,2017,Financial Transaction Processing,Unknown / Non-Applicable,6,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Screenovate,Qiryat Gat,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Southern,0,1,0,0,0,0,0,0,0
+Software Engineer,Proofpoint,Tel Aviv,4,0,3,3,4,4,4.0,1001 to 5000 Employees,Company - Private,Information Technology,2002,Enterprise Software & Network Solutions,$100 to $500 million (USD),21,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Silverfort,Tel Aviv,4,1,4,4,4,4,4.8,51 to 200 Employees,Company - Private,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,ISI,Yehud,4,0,4,3,4,4,4.8,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,Horizon Technologies,Ramat Gan,3,0,3,3,3,3,2.9,201 to 500 Employees,Company - Private,Management & Consulting,-1,Business Consulting,$25 to $100 million (USD),-1,Tel Aviv,1,0,0,0,0,0,1,0,0
+Software Engineer,WhiteSource,Giv`atayim,4,0,4,3,4,3,4.1,201 to 500 Employees,Company - Private,Information Technology,2011,Enterprise Software & Network Solutions,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,1
+Student/Intern,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,1,0,0,0,0,0,0,0
+Student/Intern,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,0,0,0,0,0,0,1,0
+Student/Intern,SAP,Raanana,4,0,4,4,4,4,4.3,Unknown,Unknown,Information Technology,-1,Unknown,$10+ billion (USD),-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Tectu,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,51 to 200 Employees,Company - Private,Information Technology,2021,Software Development,Unknown / Non-Applicable,2,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Dynamic Yield,Tel Aviv,4,1,3,3,3,3,3.8,51 to 200 Employees,Company - Private,Information Technology,2011,Internet & Web Services,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Skai,Tel Aviv,-1,1,-1,-1,-1,-1,-1.0,1 to 50 Employees,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,Pagaya Israel,Tel Aviv,3,1,3,3,3,2,3.4,501 to 1000 Employees,Company - Public,Financial Services,2016,Banking & Lending,$500 million to $1 billion (USD),7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,XM Cyber,Herzliya,4,1,4,4,4,4,4.2,51 to 200 Employees,Company - Public,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,0,1,0,1,0,0,1,0
+Software Engineer,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Infinidat,Tel Aviv,3,0,3,3,3,3,4.4,201 to 500 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,1,0,0,0,0
+Student/Intern,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Other,Gong.io Inc.,Tel Aviv,4,0,3,4,4,4,3.9,1001 to 5000 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+(Data) Analyst,Nym Health,Tel Aviv,-1,1,4,4,3,2,4.4,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,ART Medical,Netanya,4,0,4,4,4,4,4.3,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,Broadcom,Tel Aviv,3,0,3,4,3,3,3.3,10000+ Employees,Company - Public,Manufacturing,1991,Electronics Manufacturing,$10+ billion (USD),32,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Munters,Petah Tikva,3,0,3,3,3,3,3.7,1001 to 5000 Employees,Company - Public,Manufacturing,1955,Machinery Manufacturing,$500 million to $1 billion (USD),68,Central,0,1,0,0,0,0,0,0,0
+Developer,BMC Software,Tel Aviv,4,0,3,4,4,3,4.0,5001 to 10000 Employees,Company - Private,Information Technology,1980,Enterprise Software & Network Solutions,$1 to $5 billion (USD),43,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Albert Technologies,Tel Aviv,3,0,3,3,3,3,3.2,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,$1 to $5 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Salesforce,Tel Aviv,4,0,3,4,4,3,3.9,10000+ Employees,Company - Public,Information Technology,1999,Enterprise Software & Network Solutions,$10+ billion (USD),24,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,ART MEDICAL Ltd,Netanya,4,1,4,4,4,4,4.3,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,EFI,Rosh Ha`Ayin,3,0,3,2,3,3,3.4,1001 to 5000 Employees,Company - Public,Information Technology,1989,Computer Hardware Development,$1 to $5 billion (USD),34,Central,0,0,0,0,0,0,0,0,1
+Developer,Optimove,Tel Aviv,4,0,4,4,4,4,4.4,201 to 500 Employees,Company - Private,Information Technology,2009,Internet & Web Services,Unknown / Non-Applicable,14,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Nova Ltd.,Rehovot,4,1,4,4,4,4,4.3,501 to 1000 Employees,Company - Public,Manufacturing,1993,Machinery Manufacturing,$100 to $500 million (USD),30,Central,0,1,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Oski Technology,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,1,1,0,0,0,0,0,0,1
+Software Engineer,Jamf,Israel,4,0,3,3,4,3,4.4,1001 to 5000 Employees,Company - Public,Information Technology,2002,Enterprise Software & Network Solutions,Unknown / Non-Applicable,21,Israel,0,0,0,0,0,0,0,0,0
+Software Engineer,Mend,Giv`atayim,4,1,4,3,3,3,4.0,1 to 50 Employees,Company - Private,Healthcare,2014,Health Care Services & Hospitals,Unknown / Non-Applicable,9,Tel Aviv,0,0,0,0,0,0,0,0,1
+Developer,Twingo,Herzliya,4,0,4,3,4,4,4.5,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+(Data) Analyst,NSO GROUP,Herzliya,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,Red Hat Software,Raanana,4,0,4,3,4,3,4.3,10000+ Employees,Company - Public,Information Technology,1993,Enterprise Software & Network Solutions,$1 to $5 billion (USD),30,Central,0,1,0,0,0,0,0,0,0
+Student/Intern,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Explorium,Tel Aviv,4,1,4,4,4,4,3.9,51 to 200 Employees,Company - Private,Information Technology,2017,Enterprise Software & Network Solutions,Unknown / Non-Applicable,6,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Bright Data,Netanya,4,0,4,4,4,4,4.5,201 to 500 Employees,Company - Private,Information Technology,2014,Internet & Web Services,$100 to $500 million (USD),9,Central,0,1,0,0,0,0,0,0,0
+Data Scientist,EY,Tel Aviv,3,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Aurora Labs,Tel Aviv,5,0,4,4,4,4,4.6,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Software Engineer,Cato Networks,Tel Aviv,4,1,4,4,4,4,4.0,51 to 200 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,BMC Software,Tel Aviv,4,0,3,4,4,3,4.0,5001 to 10000 Employees,Company - Private,Information Technology,1980,Enterprise Software & Network Solutions,$1 to $5 billion (USD),43,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Twingo,Herzliya,4,0,4,3,4,4,4.5,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,FORTVISION,Tel Aviv,3,0,4,4,4,4,4.1,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,1,0
+Other,Check Point Software Technologies Ltd.,Tel Aviv,3,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Oski Technology,Raanana,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Central,1,1,0,0,0,0,0,0,0
+Developer,Healthy.io,Tel Aviv,4,1,4,4,4,4,4.5,201 to 500 Employees,Company - Private,Healthcare,2013,Medical Testing & Clinical Laboratories,Unknown / Non-Applicable,10,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,RecrutiX,Raanana,5,0,5,4,5,5,4.0,1 to 50 Employees,Company - Private,Pharmaceutical & Biotechnology,-1,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,Central,1,1,0,0,0,0,0,0,0
+Software Engineer,NVIDIA,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,0,1,0,0,0,0,0,0,1
+QA,Agora,Tel Aviv,3,1,3,3,3,3,3.8,1001 to 5000 Employees,Company - Private,Media & Communication,1978,Publishing,Unknown / Non-Applicable,45,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Apple,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Mars Media Group,Herzliya,3,0,3,2,3,3,3.4,51 to 200 Employees,Company - Private,Media & Communication,2005,Advertising & Public Relations,Unknown / Non-Applicable,18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,0,0,0,0,0,0,1,0
+Software Engineer,Meta,Tel Aviv,4,0,3,4,3,3,3.6,10000+ Employees,Company - Public,Information Technology,2004,Internet & Web Services,$10+ billion (USD),19,Tel Aviv,0,1,0,0,0,0,0,0,1
+Other,DRW,Tel Aviv,4,0,4,4,4,4,4.0,1001 to 5000 Employees,Company - Private,Financial Services,1992,Investment & Asset Management,Unknown / Non-Applicable,31,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Inspekto,Ramat Gan,-1,1,-1,-1,-1,-1,-1.0,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Facebook App,Tel Aviv,4,0,3,4,3,3,3.6,10000+ Employees,Company - Public,Information Technology,2004,Internet & Web Services,$10+ billion (USD),19,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Salesforce,Tel Aviv,4,0,3,4,4,3,3.9,10000+ Employees,Company - Public,Information Technology,1999,Enterprise Software & Network Solutions,$10+ billion (USD),24,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Ultima Genomics,Tel Aviv,3,0,3,3,3,3,3.5,Unknown,Company - Private,Manufacturing,-1,Machinery Manufacturing,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,ADASKY,Israel,4,0,4,3,4,5,4.4,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Engineer,Appdome,Tel Aviv,3,0,3,3,3,3,3.5,51 to 200 Employees,Company - Private,Information Technology,2012,Software Development,Unknown / Non-Applicable,11,Tel Aviv,1,0,1,0,1,0,0,0,0
+Software Engineer,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Twingo,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Developer,Sunbit,Israel,3,0,4,3,4,4,4.1,201 to 500 Employees,Company - Private,Financial Services,2016,Banking & Lending,Unknown / Non-Applicable,7,Israel,0,1,0,0,0,0,0,0,0
+Other,Oski Technology,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,0,1,0,0,0,0,0,0,0
+Student/Intern,Caja Systems,Israel,4,0,4,4,4,3,2.9,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Other,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,1,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,1,1,0
+Software Engineer,Oski Technology,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,0,1,0,0,0,0,0,0,1
+Other,NVIDIA,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,0,1,0,0,0,0,0,0,0
+Software Engineer,Oski Technology,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,0,1,0,0,0,0,0,0,0
+QA,McKinsey & Company,Tel Aviv,4,0,4,4,4,4,3.2,201 to 500 Employees,Company - Private,Management & Consulting,2009,Business Consulting,Unknown / Non-Applicable,14,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,National Instruments,Tel Aviv,3,0,3,3,4,3,4.2,5001 to 10000 Employees,Company - Public,Manufacturing,1976,Electronics Manufacturing,$1 to $5 billion (USD),47,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,Twingo,Herzliya,4,0,4,3,4,4,4.5,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,Cognyte,Herzliya,4,1,3,3,4,3,3.9,1001 to 5000 Employees,Company - Public,Information Technology,2021,Enterprise Software & Network Solutions,$100 to $500 million (USD),2,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,DoiT International,Tel Aviv,4,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Data Scientist,Citi,Tel Aviv,3,0,3,3,3,3,3.5,10000+ Employees,Company - Public,Financial Services,1812,Investment & Asset Management,$10+ billion (USD),211,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Mastercard,Tel Aviv,4,0,4,4,4,4,4.3,10000+ Employees,Company - Public,Financial Services,1966,Financial Transaction Processing,Unknown / Non-Applicable,57,Tel Aviv,0,1,0,0,0,0,1,1,1
+Software Engineer,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Other,Assured Allies,Ramat Gan,4,1,4,4,4,4,4.4,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,NVIDIA,Israel,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Israel,0,1,0,0,0,0,0,0,0
+Engineer,Iguazio,Herzliya,4,0,3,4,3,3,4.4,51 to 200 Employees,Company - Private,Information Technology,2014,Enterprise Software & Network Solutions,Unknown / Non-Applicable,9,Tel Aviv,1,1,0,0,0,0,0,0,0
+Other,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+Data Scientist,Glassbox Ltd.,Petah Tikva,4,1,4,4,4,4,4.3,201 to 500 Employees,Company - Public,Information Technology,2010,Enterprise Software & Network Solutions,Unknown / Non-Applicable,13,Central,0,1,0,0,0,0,0,0,1
+Student/Intern,SAP,Raanana,4,0,4,4,4,4,4.3,10000+ Employees,Company - Public,Information Technology,1972,Enterprise Software & Network Solutions,$10+ billion (USD),51,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,0,0,0,0,0,0,0,0
+Software Engineer,Pagaya Israel,Tel Aviv,3,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Personetics,Giv`atayim,-1,1,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,lusha,Tel Aviv,3,0,3,3,3,3,3.8,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Horizon Technologies,Ramat Gan,3,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Personetics,Giv`atayim,-1,1,-1,-1,-1,-1,-1.0,51 to 200 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,$1 to $5 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Data Scientist,Citi,Tel Aviv,3,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Microsoft,Tel Aviv,4,0,3,3,3,3,3.5,10000+ Employees,Company - Public,Financial Services,1812,Investment & Asset Management,$10+ billion (USD),211,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,INTEL,Petah Tikva,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Apple,Herzliya,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Oski Technology,Israel,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Israel,0,0,0,0,0,0,0,0,0
+Other,Apple,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Peroptyx,Israel,2,0,2,1,2,4,4.3,1 to 50 Employees,Company - Private,Unknown,2018,Internet & Web Services,Unknown / Non-Applicable,5,Israel,0,1,0,0,0,0,0,0,1
+Student/Intern,INTEL,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,1,0,0,0,0,0,0,0
+(Data) Analyst,OGC Global,Tel Aviv,5,1,5,4,5,5,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Anchor Fintech,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,Boston Consulting Group,Tel Aviv,4,0,4,4,4,4,3.1,10000+ Employees,Company - Private,Management & Consulting,1963,Business Consulting,$5 to $10 billion (USD),60,Tel Aviv,0,0,0,0,0,0,0,0,1
+(Data) Analyst,RIPESEED,Raanana,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Student/Intern,Outbrain,Netanya,4,1,3,3,4,3,4.2,501 to 1000 Employees,Company - Public,Information Technology,2006,Internet & Web Services,Unknown / Non-Applicable,17,Central,0,1,0,0,0,0,0,0,1
+Student/Intern,Apiiro,Tel Aviv,4,1,4,4,4,4,4.4,51 to 200 Employees,Company - Private,Information Technology,2019,Software Development,Unknown / Non-Applicable,4,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Investing,Tel Aviv,3,1,3,3,3,3,3.6,201 to 500 Employees,Company - Private,Media & Communication,2007,Publishing,Unknown / Non-Applicable,16,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Horizon Technologies,Ramat Gan,3,0,3,3,3,3,2.9,201 to 500 Employees,Company - Private,Management & Consulting,-1,Business Consulting,$25 to $100 million (USD),-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,BrandShield,Herzliya,2,0,2,2,3,2,2.3,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Data Scientist,Ping Identity,Petah Tikva,4,0,4,4,4,4,4.3,1001 to 5000 Employees,Company - Public,Information Technology,2002,Enterprise Software & Network Solutions,$100 to $500 million (USD),21,Central,0,0,0,0,0,0,0,0,1
+(Data) Analyst,מגדל חברה לביטוח,Petah Tikva,3,0,3,2,3,2,4.2,1001 to 5000 Employees,Company - Public,Insurance,-1,Insurance Carriers,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Ibex Medical Analytics,Tel Aviv,5,1,5,4,5,5,5.0,1 to 50 Employees,Company - Public,Healthcare,2016,Health Care Services & Hospitals,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Discount Bank,Rishon LeẔiyyon,4,1,3,3,3,3,4.0,5001 to 10000 Employees,Company - Public,Financial Services,1935,Banking & Lending,$1 to $5 billion (USD),88,Central,0,1,0,0,0,0,0,0,0
+Data Scientist,Paretix,Tel Aviv,-1,0,4,3,3,-1,-1.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,SchoolStatus,Tel Aviv,-1,1,3,4,3,3,4.7,201 to 500 Employees,Company - Private,Information Technology,2012,Internet & Web Services,$25 to $100 million (USD),11,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Planck,Tel Aviv,-1,1,4,4,4,4,4.6,51 to 200 Employees,Company - Private,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,1,0,0,0,0,0,0,1
+Data Scientist,MIcompany,Tel Aviv,4,1,4,3,4,4,4.0,51 to 200 Employees,Company - Private,Management & Consulting,-1,Business Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Outbrain Inc.,Netanya,4,0,3,3,4,3,4.2,501 to 1000 Employees,Company - Public,Information Technology,2006,Internet & Web Services,Unknown / Non-Applicable,17,Central,0,1,0,0,0,0,0,0,1
+Student/Intern,Natural Intelligence,Tel Aviv,4,1,3,4,4,3,4.1,201 to 500 Employees,Company - Private,Media & Communication,2009,Advertising & Public Relations,Unknown / Non-Applicable,14,Tel Aviv,0,1,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Other,Pontera,Herzliya,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2012,Internet & Web Services,Unknown / Non-Applicable,11,Tel Aviv,0,0,0,0,0,0,0,0,0
+Data Scientist,Natural Intelligence,Tel Aviv,4,1,3,4,4,3,4.1,201 to 500 Employees,Company - Private,Media & Communication,2009,Advertising & Public Relations,Unknown / Non-Applicable,14,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,DBArt,Hod HaSharon,5,0,-1,-1,-1,-1,-1.0,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,1,1,1,0,0,0,1,1,0
+Student/Intern,ThetaRay,Hod HaSharon,4,0,4,4,4,4,4.3,51 to 200 Employees,Company - Private,Information Technology,2013,Enterprise Software & Network Solutions,Unknown / Non-Applicable,10,Central,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Discount Bank,Rishon LeẔiyyon,4,1,3,3,3,3,4.0,5001 to 10000 Employees,Company - Public,Financial Services,1935,Banking & Lending,$1 to $5 billion (USD),88,Central,0,0,0,0,0,0,0,0,0
+Data Scientist,Ticomsoft,Yehud,4,0,4,4,4,4,5.0,51 to 200 Employees,Contract,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,1,0,0,0,0,0,1,0,0
+Data Scientist,Deep Solutions,Tel Aviv,4,0,4,4,4,4,4.6,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,1,0,0
+(Data) Analyst,Nym Health,Tel Aviv,-1,1,4,4,3,2,4.4,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Paretix,Tel Aviv,-1,0,4,3,3,-1,-1.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,1,0,0
+(Data) Analyst,NSO GROUP,Herzliya,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Paretix,Tel Aviv,-1,0,4,3,3,-1,-1.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Personetics,Giv`atayim,-1,1,3,3,3,3,3.3,51 to 200 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,$1 to $5 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Student/Intern,Pulsenmore,Ramat Gan,-1,1,5,5,5,5,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Genoox,Tel Aviv,5,0,4,3,5,4,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,0,0,0,0,0,0,1,0
+Student/Intern,Bright Data,Netanya,4,0,4,4,4,4,4.5,201 to 500 Employees,Company - Private,Information Technology,2014,Internet & Web Services,$100 to $500 million (USD),9,Central,0,1,0,0,0,0,0,0,0
+Other,Gong.io Inc.,Tel Aviv,4,0,3,4,4,4,3.9,1001 to 5000 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Data Scientist,MalamTeam,Petah Tikva,3,0,2,2,2,2,3.7,1001 to 5000 Employees,Company - Public,Information Technology,-1,Information Technology Support Services,Unknown / Non-Applicable,-1,Central,1,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Tectu,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,51 to 200 Employees,Company - Private,Information Technology,2021,Software Development,Unknown / Non-Applicable,2,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,MSD Animal Health Intelligence Technology Labs,Netanya,3,1,3,3,3,3,4.0,201 to 500 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Software Engineer,Nym Health,Tel Aviv,-1,1,4,4,3,2,4.4,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,NVIDIA,Tel Aviv,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Aman Group,Petah Tikva,3,0,3,4,3,3,3.3,1001 to 5000 Employees,Company - Private,Manufacturing,-1,Consumer Product Manufacturing,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,1,0,0
+(Data) Analyst,Meta,Tel Aviv,4,0,3,4,3,3,3.6,10000+ Employees,Company - Public,Information Technology,2004,Internet & Web Services,$10+ billion (USD),19,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Albert Technologies,Tel Aviv,3,0,3,3,3,3,3.2,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,$1 to $5 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Student/Intern,Screenovate,Petah Tikva,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Central,0,1,0,0,0,0,0,0,0
+Other,Novatrials,Ness Ziona,-1,0,2,2,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Overwolf,Ramat Gan,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2010,Software Development,Unknown / Non-Applicable,13,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Radware,Tel Aviv,3,0,3,3,4,3,3.9,1001 to 5000 Employees,Company - Public,Information Technology,1997,Enterprise Software & Network Solutions,$500 million to $1 billion (USD),26,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Other,retrain.ai,Tel Aviv,4,1,4,3,4,4,4.0,51 to 200 Employees,Company - Private,Information Technology,2020,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Tony Blair Institute for Global Change,Tel Aviv,3,0,2,3,3,2,3.4,201 to 500 Employees,Nonprofit Organization,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Octopol,Raanana,3,1,3,3,3,3,3.5,1 to 50 Employees,Company - Private,Information Technology,2009,Enterprise Software & Network Solutions,Unknown / Non-Applicable,14,Central,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Similarweb,Tel Aviv,3,0,3,3,3,2,3.0,501 to 1000 Employees,Company - Public,Information Technology,2008,Internet & Web Services,Unknown / Non-Applicable,15,Tel Aviv,0,0,0,0,0,0,0,0,1
+Student/Intern,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Unknown,Unknown,1975,Unknown,Unknown / Non-Applicable,48,Tel Aviv,0,0,0,0,0,0,0,1,0
+Student/Intern,SAP,Raanana,4,0,4,4,4,4,4.3,10000+ Employees,Company - Public,Information Technology,1972,Enterprise Software & Network Solutions,$10+ billion (USD),51,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Teva Pharmaceuticals,Netanya,3,0,2,3,3,2,3.2,10000+ Employees,Company - Public,Pharmaceutical & Biotechnology,1901,Biotech & Pharmaceuticals,$10+ billion (USD),122,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,Novatrials,Ness Ziona,-1,0,2,2,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Wix,Ramat HaSharon,4,1,3,3,4,3,4.0,5001 to 10000 Employees,Company - Public,Information Technology,2006,Internet & Web Services,$500 million to $1 billion (USD),17,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Finaro,Herzliya,4,1,4,3,4,4,4.5,201 to 500 Employees,Company - Private,Financial Services,2007,Financial Transaction Processing,$5 to $25 million (USD),16,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Novo Nordisk,Kfar Saba,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Pharmaceutical & Biotechnology,1923,Biotech & Pharmaceuticals,$10+ billion (USD),100,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,KLA,Yavne,4,0,3,3,4,3,3.6,5001 to 10000 Employees,Company - Public,Manufacturing,1976,Machinery Manufacturing,$1 to $5 billion (USD),47,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,XM Cyber,Herzliya,4,1,4,4,4,4,4.2,51 to 200 Employees,Company - Public,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,0,1,0,1,0,0,1,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,MSD,Netanya,4,0,3,4,4,3,3.8,10000+ Employees,Company - Public,Pharmaceutical & Biotechnology,1891,Biotech & Pharmaceuticals,$10+ billion (USD),132,Central,0,0,0,0,0,0,0,0,0
+(Data) Analyst,CybeReady Learning Solutions,Israel,-1,0,4,4,4,4,4.3,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,0,0
+Developer,Optimove,Tel Aviv,4,0,4,4,4,4,4.4,201 to 500 Employees,Company - Private,Information Technology,2009,Internet & Web Services,Unknown / Non-Applicable,14,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Tymely,Tel Aviv,-1,1,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Credorax,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,ironSource,Tel Aviv,4,1,4,3,4,4,3.9,501 to 1000 Employees,Company - Private,Information Technology,2010,Computer Hardware Development,Unknown / Non-Applicable,13,Tel Aviv,0,1,0,0,0,0,1,0,0
+Other,Check Point Software Technologies Ltd.,Tel Aviv,3,0,3,3,3,3,3.9,5001 to 10000 Employees,Company - Public,Information Technology,1993,Software Development,$1 to $5 billion (USD),30,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Fireblocks,Tel Aviv,4,1,3,4,4,3,4.2,501 to 1000 Employees,Company - Private,Information Technology,2018,Enterprise Software & Network Solutions,Unknown / Non-Applicable,5,Tel Aviv,0,1,0,0,0,0,0,0,1
+Data Scientist,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+(Data) Analyst,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+(Data) Analyst,888holdings,Israel,3,0,3,3,4,3,4.3,1001 to 5000 Employees,Company - Public,"Arts, Entertainment & Recreation",1997,Gambling,$100 to $500 million (USD),26,Israel,0,0,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Other,Genoox,Tel Aviv,5,0,4,3,5,4,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Oski Technology,Tel Aviv,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Information Technology,1993,Computer Hardware Development,$5 to $10 billion (USD),30,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+(Data) Analyst,Discount Bank,Rishon LeẔiyyon,4,1,3,3,3,3,4.0,5001 to 10000 Employees,Company - Public,Financial Services,1935,Banking & Lending,$1 to $5 billion (USD),88,Central,0,0,0,0,0,0,0,0,0
+(Data) Analyst,lusha,Tel Aviv,3,0,3,3,3,3,3.8,201 to 500 Employees,Company - Private,Information Technology,2016,Software Development,Unknown / Non-Applicable,7,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Deloitte,Tel Aviv,4,0,4,3,3,3,3.2,10000+ Employees,Company - Private,Financial Services,1850,Accounting & Tax,$10+ billion (USD),173,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,ISI,Yehud,4,0,4,3,4,4,4.8,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,0,0
+Data Scientist,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Student/Intern,ThetaRay,Hod HaSharon,4,0,4,4,4,4,4.3,51 to 200 Employees,Company - Private,Information Technology,2013,Enterprise Software & Network Solutions,Unknown / Non-Applicable,10,Central,0,1,0,0,0,0,0,0,0
+Student/Intern,SAP,Raanana,4,0,4,4,4,4,4.3,Unknown,Unknown,Information Technology,-1,Unknown,$10+ billion (USD),-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Credorax,Herzliya,4,0,4,3,4,4,4.5,201 to 500 Employees,Company - Private,Financial Services,2007,Financial Transaction Processing,$5 to $25 million (USD),16,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,Pagaya Israel,Tel Aviv,3,1,3,3,3,2,3.4,501 to 1000 Employees,Company - Public,Financial Services,2016,Banking & Lending,$500 million to $1 billion (USD),7,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,Xtrodes,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,1,0,0
+Other,Novatrials,Ness Ziona,-1,0,2,2,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Albert Technologies,Tel Aviv,3,0,3,3,3,3,3.2,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,$1 to $5 million (USD),-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Screenovate,Qiryat Gat,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1968,Computer Hardware Development,$10+ billion (USD),55,Southern,0,1,0,0,0,0,0,0,0
+(Data) Analyst,Peroptyx,Israel,2,0,2,1,2,4,4.3,1 to 50 Employees,Company - Private,Information Technology,2018,Internet & Web Services,Unknown / Non-Applicable,5,Israel,0,1,0,0,0,0,0,0,1
+(Data) Analyst,SchoolStatus,Tel Aviv,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Data Scientist,MIcompany,Tel Aviv,4,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+(Data) Analyst,Discount Bank,Rishon LeẔiyyon,4,1,4,3,4,4,4.0,51 to 200 Employees,Company - Private,Management & Consulting,-1,Business Consulting,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Developer,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,1,0
+(Data) Analyst,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+(Data) Analyst,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,1,0,0,0,0,0,1,0,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,0,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,1,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,1,0
+Engineer,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,0,0
+Other,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,1
+Engineer,,Israel,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Developer,uPress,Holon,-1,0,-1,-1,-1,-1,-1.0,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,eternitech,Tel Aviv,1,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,0,0,1,1,0,0,0,0,0
+Developer,Ideo digital,Tel Aviv,3,0,2,2,1,1,3.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,1,0,1,1,0,0
+Developer,eternitech,Tel Aviv,1,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,1,0,1,0,0,0,0,0,0
+Developer,Unleash,Tel Aviv,3,1,3,3,3,3,3.5,51 to 200 Employees,Company - Private,Media & Communication,2011,Publishing,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Genoox,Tel Aviv,5,0,4,3,5,4,5.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,eternitech,Tel Aviv,1,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,1,0,1,1,0,0,0,0,0
+Developer,My Mobile,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Toonimo,Tel Aviv,5,0,5,4,5,5,4.3,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,AppCard,Hod HaSharon,3,0,3,3,3,3,3.2,1 to 50 Employees,Company - Public,Information Technology,-1,Computer Hardware Development,$5 to $25 million (USD),-1,Central,1,0,0,0,0,0,0,0,0
+Developer,YKM,Tel Aviv,2,0,3,3,2,3,3.4,1 to 50 Employees,Company - Private,Information Technology,-1,Information Technology Support Services,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,0,0,0,0,0,1
+Developer,90min.com,Tel Aviv,3,0,3,3,3,3,4.1,201 to 500 Employees,Company - Private,Media & Communication,2011,Publishing,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,ESN Global Media,Ramat Gan,4,1,4,3,4,3,3.9,51 to 200 Employees,Company - Private,Media & Communication,2012,Advertising & Public Relations,Unknown / Non-Applicable,11,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Intango,Tel Aviv,4,0,3,3,4,3,4.5,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,MalamTeam,Petah Tikva,3,0,2,2,2,2,3.7,1001 to 5000 Employees,Company - Public,Information Technology,-1,Information Technology Support Services,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,1,0,0
+Developer,abra Web & Mobile,Ramat Gan,4,1,4,3,4,4,4.4,501 to 1000 Employees,Company - Public,Information Technology,2020,Information Technology Support Services,Unknown / Non-Applicable,3,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,90min.com,Tel Aviv,3,0,3,3,3,3,4.1,201 to 500 Employees,Company - Private,Media & Communication,2011,Publishing,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,PRIMIS,Tel Aviv,4,0,4,3,3,3,3.2,51 to 200 Employees,Company - Private,Media & Communication,2007,Advertising & Public Relations,Unknown / Non-Applicable,16,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Invaya,Herzliya,3,0,2,3,3,2,2.6,51 to 200 Employees,Company - Private,Transportation & Logistics,2010,Taxi & Car Services,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,0,1,0,0
+Developer,קבוצת כלמוביל,Rosh Ha`Ayin,3,0,3,3,3,3,4.2,501 to 1000 Employees,Company - Private,Retail & Wholesale,-1,Vehicle Dealers,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,1,0,0,1
+Developer,InspHire,Ramat Gan,5,1,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Management & Consulting,2017,Business Consulting,Unknown / Non-Applicable,6,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,InspHire,Tel Aviv,5,1,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Management & Consulting,2017,Business Consulting,Unknown / Non-Applicable,6,Tel Aviv,1,0,0,0,0,1,0,0,0
+Developer,Altair,Israel,4,0,4,4,4,4,4.2,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,0,0
+Developer,accessiBe,Tel Aviv,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2018,Internet & Web Services,Unknown / Non-Applicable,5,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Ideo digital,Tel Aviv,3,0,2,2,1,1,3.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Other,YozmaTech,Herzliya,5,0,5,5,5,4,5.0,51 to 200 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,1,0,0,1,0,0,0
+Developer,Devalore,Petah Tikva,3,0,4,3,3,3,3.9,51 to 200 Employees,Company - Private,Information Technology,2010,Computer Hardware Development,Unknown / Non-Applicable,13,Central,0,1,1,1,0,1,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,Unknown,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,0,0,0,0,0,0
+Other,,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,1,1,0,1,1,0,1
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,Gotfriends,Israel,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,1,0
+Developer,eternitech,Tel Aviv,1,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,1,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Developer,Cuma Financial,Tel Aviv,5,0,5,5,5,5,5.0,1 to 50 Employees,Company - Private,Unknown,2017,Unknown,Unknown / Non-Applicable,6,Tel Aviv,1,1,0,0,0,0,0,0,0
+Developer,Albert Technologies,Tel Aviv,3,0,3,3,3,3,3.2,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,$1 to $5 million (USD),-1,Tel Aviv,1,1,0,0,0,1,0,0,1
+Developer,Zencity,Tel Aviv,4,1,3,3,4,3,4.2,51 to 200 Employees,Company - Private,Information Technology,2016,Information Technology Support Services,$5 to $25 million (USD),7,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,SMSEdge,Tel Aviv,1,0,1,1,1,1,2.3,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,1,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Imomony,Tel Aviv,2,0,3,2,3,2,4.3,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,SuperCom,Tel Aviv,-1,0,3,3,4,3,4.2,201 to 500 Employees,Company - Public,Retail & Wholesale,-1,Wholesale,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Code Oasis,Herzliya,3,0,4,2,3,3,3.5,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,TOMODO,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,0,1,1,0,0,0,0,0
+Other,MalamTeam,Petah Tikva,3,0,2,2,2,2,3.7,1001 to 5000 Employees,Company - Public,Information Technology,-1,Information Technology Support Services,Unknown / Non-Applicable,-1,Central,0,0,1,1,0,1,1,0,0
+Developer,accessiBe,Tel Aviv,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2018,Internet & Web Services,Unknown / Non-Applicable,5,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,1,0,0,0
+Developer,נוביליס מערכות תכנה,Rishon LeẔiyyon,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,1,0,0,0,0,0,0,0,1
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,Unknown,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,1,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,1,0,1
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,1,0,0
+Developer,FrontStory,Tel Aviv,4,1,4,4,4,4,4.4,1 to 50 Employees,Company - Private,Media & Communication,2012,Publishing,Unknown / Non-Applicable,11,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,0,0
+Engineer,ironSource,Tel Aviv,4,1,4,3,4,4,3.9,501 to 1000 Employees,Company - Private,Information Technology,2010,Computer Hardware Development,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,1,0,0,0
+Engineer,Digital Turbine,Petah Tikva,4,1,3,3,4,3,4.1,501 to 1000 Employees,Company - Public,Information Technology,1998,Computer Hardware Development,$1 to $5 billion (USD),25,Central,0,0,0,0,0,0,0,0,1
+Engineer,Quantum Machines,Tel Aviv,4,1,4,4,4,4,3.6,51 to 200 Employees,Company - Private,Information Technology,2018,Computer Hardware Development,Unknown / Non-Applicable,5,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Razor Labs,Tel Aviv,-1,1,3,2,2,2,3.1,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,0,0
+Engineer,Stampli,Tel Aviv,4,1,4,4,4,4,4.2,51 to 200 Employees,Company - Private,Financial Services,2015,Financial Transaction Processing,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Dragontail Systems,Ramat Gan,-1,1,5,3,4,5,4.5,51 to 200 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Mccann,Tel Aviv,3,1,3,3,3,2,3.2,10000+ Employees,Subsidiary or Business Segment,Media & Communication,1912,Advertising & Public Relations,Unknown / Non-Applicable,111,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,0,0,0,0,0,0
+Developer,Moon Active,Tel Aviv,4,0,4,4,4,4,3.9,1001 to 5000 Employees,Company - Private,Information Technology,2011,Internet & Web Services,Unknown / Non-Applicable,12,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,Unknown,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,1,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,1,0,0,0,1,1,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,1,0,1,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,Gotfriends,Israel,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Developer,Techtalent חברת Headhunting והשמה,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,AMBITION,Tel Aviv,3,0,4,4,4,4,4.2,201 to 500 Employees,Company - Public,Human Resources & Staffing,1999,HR Consulting,$25 to $100 million (USD),24,Tel Aviv,1,1,0,0,0,0,0,0,1
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,ironSource,Tel Aviv,4,1,4,3,4,4,3.9,501 to 1000 Employees,Company - Private,Information Technology,2010,Computer Hardware Development,Unknown / Non-Applicable,13,Tel Aviv,0,1,0,0,0,0,0,1,0
+Developer,Duda,Tel Aviv,4,0,3,4,4,4,4.4,51 to 200 Employees,Company - Private,Information Technology,2009,Internet & Web Services,Unknown / Non-Applicable,14,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,1,0
+Student/Intern,Typemock,Israel,-1,0,2,3,2,2,3.3,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,1,0,0,0,0
+Developer,"אפ קארד פיתוח בע""מ",Southern,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Southern,1,0,0,0,0,0,0,0,0
+Developer,Kornit Digital,Rosh Ha`Ayin,3,1,4,3,3,3,3.8,501 to 1000 Employees,Company - Public,Manufacturing,2002,Textile & Apparel Manufacturing,$100 to $500 million (USD),21,Central,0,1,0,0,0,0,0,0,1
+Developer,"סיטיפיי בע""מ",Southern,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Southern,0,0,1,1,0,0,1,0,0
+Developer,Guesty,Tel Aviv,4,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,3,3.8,51 to 200 Employees,Company - Private,Information Technology,2013,Computer Hardware Development,Unknown / Non-Applicable,10,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,abra,Petah Tikva,4,1,4,2,3,4,4.0,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,1,1,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,Unknown,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,1,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,1,1,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,קווליטסט,Raanana,3,0,3,3,3,3,3.7,1001 to 5000 Employees,Company - Private,Information Technology,1997,Information Technology Support Services,Unknown / Non-Applicable,26,Central,1,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,1,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,1,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,1,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,1,1,0
+Engineer,FORTVISION,Tel Aviv,3,0,4,4,4,4,4.1,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,"אפ קארד פיתוח בע""מ",Raanana,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,1,1,0,1,0,0,1
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,1,0,1,0,0,0
+Developer,Novidea,Netanya,3,1,3,3,3,3,3.3,51 to 200 Employees,Company - Private,Information Technology,-1,Software Development,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,LS TECHNOLOGIES,Petah Tikva,3,0,3,4,4,4,4.4,201 to 500 Employees,Company - Private,Aerospace & Defense,2000,Aerospace & Defense,$25 to $100 million (USD),23,Central,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Altair,Israel,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,1,0,1,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,AppCard,Hod HaSharon,3,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,3,3,3,3,3.2,51 to 200 Employees,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,0,0
+Developer,eternitech,Tel Aviv,1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,1,0,1,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,1,1,0,0
+Developer,Altair,Israel,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,4.2,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,eternitech,Tel Aviv,1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,1,0,1,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,4.2,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,0,0,0,1,0
+Other,,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Gotfriends,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,1,1,0,1,1,0,1
+Developer,uPress,Holon,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Devalore,Petah Tikva,3,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Central,1,0,0,0,0,1,1,0,0
+Engineer,Atomic-growth.com,Ramat Gan,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Unleash,Tel Aviv,3,1,3,3,3,3,3.5,51 to 200 Employees,Company - Private,Media & Communication,2011,Publishing,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,CrowdStrike,Tel Aviv,4,0,4,4,4,3,4.1,1001 to 5000 Employees,Company - Public,Information Technology,2011,Enterprise Software & Network Solutions,$500 million to $1 billion (USD),12,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Atera,Tel Aviv,4,1,4,4,4,4,4.6,201 to 500 Employees,Company - Private,Information Technology,2014,Enterprise Software & Network Solutions,$25 to $100 million (USD),9,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Unleash Labs,Tel Aviv,3,0,3,3,3,3,3.5,51 to 200 Employees,Company - Private,Media & Communication,2011,Publishing,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Jeeng,Giv`atayim,-1,1,4,4,4,4,4.6,1 to 50 Employees,Company - Private,Information Technology,2011,Internet & Web Services,$25 to $100 million (USD),12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,ironSource,Tel Aviv,4,1,4,3,4,4,3.9,501 to 1000 Employees,Company - Private,Information Technology,2010,Computer Hardware Development,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,1,0,0,0
+Student/Intern,Gong.io Inc.,Tel Aviv,4,0,3,4,4,4,3.9,1001 to 5000 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Trullion,Tel Aviv,-1,1,5,5,4,5,4.5,1 to 50 Employees,Company - Private,Financial Services,2019,Financial Transaction Processing,Unknown / Non-Applicable,4,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Cybereason,Tel Aviv,3,1,3,3,3,2,3.7,1001 to 5000 Employees,Company - Private,Information Technology,2012,Enterprise Software & Network Solutions,Unknown / Non-Applicable,11,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Ermetic,Tel Aviv,4,1,4,4,4,3,4.3,51 to 200 Employees,Company - Private,Information Technology,2019,Software Development,Unknown / Non-Applicable,4,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,ClearML,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Contract,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Imomony,Tel Aviv,2,0,3,2,3,2,4.3,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,1,0,0
+Engineer,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,NCR,Raanana,3,0,3,3,3,3,3.4,10000+ Employees,Company - Public,Information Technology,1884,Enterprise Software & Network Solutions,$5 to $10 billion (USD),139,Central,0,1,0,0,0,0,0,0,1
+QA,AudioCodes Limited,Central,4,0,3,3,4,3,4.2,501 to 1000 Employees,Company - Public,Manufacturing,-1,Electronics Manufacturing,$100 to $500 million (USD),-1,Central,0,1,0,0,0,0,0,0,0
+Other,Chakratec,Lod,5,0,3,3,5,5,4.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+QA,Dropit Shopping,Tel Aviv,3,1,3,3,3,3,4.1,51 to 200 Employees,Company - Private,Personal Consumer Services,2016,Consumer Product Rental,Unknown / Non-Applicable,7,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Digital Turbine,Petah Tikva,4,1,3,3,4,3,4.1,501 to 1000 Employees,Company - Public,Information Technology,1998,Computer Hardware Development,$1 to $5 billion (USD),25,Central,0,0,0,0,0,0,0,0,1
+Engineer,PowerLink Software Ltd,Tel Aviv,2,0,2,1,1,1,2.7,1 to 50 Employees,Company - Private,Information Technology,1997,Computer Hardware Development,Unknown / Non-Applicable,26,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Implant Direct,Israel,3,0,3,3,3,2,3.0,10000+ Employees,Company - Public,Healthcare,2019,Health Care Services & Hospitals,Unknown / Non-Applicable,4,Israel,0,0,0,0,0,0,0,0,0
+Engineer,Silverfort,Tel Aviv,4,1,4,4,4,4,4.8,51 to 200 Employees,Company - Private,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Other,,Raanana,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Engineer,ServiceNow,Petah Tikva,4,0,4,4,4,4,4.3,10000+ Employees,Company - Public,Information Technology,2004,Enterprise Software & Network Solutions,$1 to $5 billion (USD),19,Central,0,1,0,0,0,0,0,0,0
+QA,Via,Tel Aviv,4,0,4,4,4,4,3.8,501 to 1000 Employees,Company - Private,Information Technology,2012,Internet & Web Services,Unknown / Non-Applicable,11,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,OM2 Technologies,Herzliya,4,1,3,4,3,3,4.6,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,FrontStory,Tel Aviv,4,1,4,4,4,4,4.4,1 to 50 Employees,Company - Private,Media & Communication,2012,Publishing,Unknown / Non-Applicable,11,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Software Engineer,Toka,Tel Aviv,3,0,3,3,3,3,3.5,1001 to 5000 Employees,Company - Private,Unknown,2009,Unknown,$100 to $500 million (USD),14,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Lemonade,Tel Aviv,3,1,3,3,3,3,3.5,1001 to 5000 Employees,Company - Public,Insurance,2015,Insurance Carriers,$100 to $500 million (USD),8,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,BUFFERZONE Security,Herzliya,-1,0,2,2,2,2,5.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Via,Tel Aviv,4,1,4,4,4,4,3.8,501 to 1000 Employees,Company - Private,Information Technology,2012,Internet & Web Services,Unknown / Non-Applicable,11,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,ClearML,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Contract,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Percepto,Israel,4,1,3,3,3,3,3.6,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,0,0
+Software Engineer,Hailo,Tel Aviv,4,1,3,3,3,3,4.0,201 to 500 Employees,Company - Private,Information Technology,2011,Computer Hardware Development,Unknown / Non-Applicable,12,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Invaya,Herzliya,3,0,2,3,3,2,2.6,51 to 200 Employees,Company - Private,Transportation & Logistics,2010,Taxi & Car Services,Unknown / Non-Applicable,13,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,CALLUP,Rosh Ha`Ayin,-1,1,-1,-1,-1,-1,-1.0,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,1,0,0
+QA,Castor,Tel Aviv,-1,1,3,3,4,3,4.3,201 to 500 Employees,Company - Private,Information Technology,2011,Computer Hardware Development,$25 to $100 million (USD),12,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Silentium,Ness Ziona,3,1,3,2,3,2,3.3,501 to 1000 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,1,0,0,0,0
+Engineer,Unitronics,Central,2,1,2,2,2,2,2.9,201 to 500 Employees,Company - Private,Manufacturing,1989,Machinery Manufacturing,Unknown / Non-Applicable,34,Central,0,0,0,0,0,0,0,0,0
+QA,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+Engineer,NeoGames,Tel Aviv,4,1,4,4,4,4,4.3,201 to 500 Employees,Company - Public,Information Technology,2005,Software Development,Unknown / Non-Applicable,18,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Waterfall Security Solutions,Rosh Ha`Ayin,3,0,2,2,2,2,3.1,1 to 50 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+QA,Tictuk,Tel Aviv,-1,1,4,3,4,4,2.6,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Cyberbit,Raanana,4,1,4,3,4,4,4.2,51 to 200 Employees,Company - Private,Information Technology,2015,Software Development,Unknown / Non-Applicable,8,Central,0,1,0,0,0,0,0,0,0
+QA,PlayWorks Digital,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Contract,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Neema Shefa Israel,Tel Aviv,-1,0,2,2,2,2,2.0,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,1
+QA,Silentium,Ness Ziona,3,1,3,2,3,2,3.3,501 to 1000 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+QA,Aquant,Tel Aviv,4,1,3,4,4,4,3.9,51 to 200 Employees,Company - Private,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,SuperCom,Tel Aviv,-1,0,3,3,4,3,4.2,201 to 500 Employees,Company - Public,Retail & Wholesale,-1,Wholesale,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,GlobalLogic,Ramat Gan,3,0,3,3,3,3,4.0,10000+ Employees,Company - Private,Information Technology,2000,Information Technology Support Services,$500 million to $1 billion (USD),23,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Agora,Tel Aviv,3,1,3,3,3,3,3.8,1001 to 5000 Employees,Company - Private,Media & Communication,1978,Publishing,Unknown / Non-Applicable,45,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,אלביט מערכות,Tel Aviv,3,0,3,3,3,3,4.0,10000+ Employees,Company - Public,Aerospace & Defense,1967,Aerospace & Defense,$1 to $5 billion (USD),56,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,0,1,0,0,1,0
+Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,1,0,0,0
+Engineer,BUFFERZONE Security,Herzliya,-1,0,2,2,2,2,5.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Horizon Technologies,Ramat Gan,3,0,3,3,3,3,2.9,201 to 500 Employees,Company - Private,Management & Consulting,-1,Business Consulting,$25 to $100 million (USD),-1,Tel Aviv,1,0,0,0,0,0,1,0,0
+QA,Cobwebs Technologies,Herzliya,4,1,4,3,4,3,4.2,51 to 200 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Cyesec,Herzliya,4,0,4,3,4,4,4.3,51 to 200 Employees,Company - Private,Information Technology,2012,Enterprise Software & Network Solutions,Unknown / Non-Applicable,11,Tel Aviv,0,0,0,0,0,0,0,1,0
+Engineer,Replies AI,Tel Aviv,4,0,4,4,4,4,4.5,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Inspekto,Ramat Gan,-1,1,-1,-1,-1,-1,-1.0,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,אלביט מערכות,Rehovot,3,0,3,3,3,3,4.0,10000+ Employees,Company - Public,Aerospace & Defense,1967,Aerospace & Defense,$1 to $5 billion (USD),56,Central,0,0,0,0,0,0,0,0,0
+Engineer,Water.io,Rehovot,-1,0,5,4,5,4,5.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+QA,Webbing,Petah Tikva,3,1,5,4,5,4,4.4,51 to 200 Employees,Company - Private,Telecommunications,2010,Telecommunications Services,Unknown / Non-Applicable,13,Central,0,0,0,0,0,0,0,0,0
+QA,Revuze,Netanya,4,1,4,3,4,4,4.1,51 to 200 Employees,Company - Private,Media & Communication,2013,Advertising & Public Relations,Unknown / Non-Applicable,10,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,Nova Ltd.,Rehovot,4,1,4,4,4,4,4.3,501 to 1000 Employees,Company - Public,Manufacturing,1993,Machinery Manufacturing,$100 to $500 million (USD),30,Central,0,1,0,0,0,0,0,0,0
+Engineer,JobInfo,Tel Aviv,3,0,3,3,1,2,4.2,51 to 200 Employees,Company - Private,Information Technology,1999,Computer Hardware Development,Unknown / Non-Applicable,24,Tel Aviv,0,0,0,0,1,0,0,0,0
+Engineer,PayU,Tel Aviv,3,1,3,3,3,3,3.6,1001 to 5000 Employees,Company - Private,Information Technology,2002,Internet & Web Services,$10+ billion (USD),21,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,lusha,Tel Aviv,3,0,3,3,3,3,3.8,201 to 500 Employees,Company - Private,Information Technology,2016,Software Development,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,0,0,0
+QA,General Motors,Herzliya,4,0,3,4,3,3,3.8,10000+ Employees,Company - Public,Manufacturing,1908,Transportation Equipment Manufacturing,$10+ billion (USD),115,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Oktopost,Ramat Gan,4,1,3,3,3,3,3.6,51 to 200 Employees,Company - Private,Information Technology,2013,Software Development,Unknown / Non-Applicable,10,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Ericsson,Rosh Ha`Ayin,4,0,3,3,4,3,3.8,10000+ Employees,Company - Public,Telecommunications,1876,Telecommunications Services,$10+ billion (USD),147,Central,0,0,0,0,0,0,0,0,0
+QA,Earnix,Ramat Gan,4,1,4,4,4,4,4.6,201 to 500 Employees,Company - Private,Information Technology,2001,Enterprise Software & Network Solutions,Unknown / Non-Applicable,22,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Hello Heart,Tel Aviv,4,1,4,4,4,4,4.3,51 to 200 Employees,Company - Private,Healthcare,2013,Health Care Services & Hospitals,$25 to $100 million (USD),10,Tel Aviv,0,1,0,0,0,0,0,0,1
+Engineer,SAR Technologies,Herzliya,3,0,3,3,3,2,4.1,51 to 200 Employees,Contract,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,1,0,0,0,0,1,0
+QA,National Instruments,Tel Aviv,3,0,3,3,4,3,4.2,5001 to 10000 Employees,Company - Public,Manufacturing,1976,Electronics Manufacturing,$1 to $5 billion (USD),47,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,נוביליס מערכות תכנה,Rishon LeẔiyyon,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,1,0,0,0,0,0,0,0,1
+QA,AppLovin,Herzliya,3,0,3,4,3,3,3.2,1001 to 5000 Employees,Company - Public,Information Technology,2012,Internet & Web Services,Unknown / Non-Applicable,11,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,1,0,0,0,0
+Software Engineer,Broadcom,Tel Aviv,3,0,3,4,3,3,3.3,10000+ Employees,Company - Public,Manufacturing,1991,Electronics Manufacturing,$10+ billion (USD),32,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Engineer,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,"אר.ויי.בי. פלסמנט אגנסי בע""מ",Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,lusha,Tel Aviv,3,0,3,3,3,3,3.8,201 to 500 Employees,Company - Private,Information Technology,2016,Software Development,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Nova Ltd.,Rehovot,4,1,4,4,4,4,4.3,501 to 1000 Employees,Company - Public,Manufacturing,1993,Machinery Manufacturing,$100 to $500 million (USD),30,Central,0,1,0,0,0,0,0,0,0
+QA,Plataine,Israel,-1,0,3,3,3,3,4.4,1 to 50 Employees,Company - Private,Information Technology,-1,Computer Hardware Development,Unknown / Non-Applicable,-1,Israel,0,1,1,0,0,0,0,0,0
+Engineer,AIRLIFT One,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Pontera,Herzliya,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2012,Internet & Web Services,Unknown / Non-Applicable,11,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,Pentera,Petah Tikva,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,lusha,Tel Aviv,3,0,3,3,3,3,3.8,201 to 500 Employees,Company - Private,Information Technology,2016,Software Development,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Invaya,Herzliya,3,0,2,3,3,2,2.6,51 to 200 Employees,Company - Private,Transportation & Logistics,2010,Taxi & Car Services,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Invaya,Herzliya,3,0,2,3,3,2,2.6,51 to 200 Employees,Company - Private,Transportation & Logistics,2010,Taxi & Car Services,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,1,0,0,0,0
+Engineer,GE Healthcare,Rehovot,4,0,4,4,4,4,4.1,10000+ Employees,Company - Public,Healthcare,1892,Health Care Services & Hospitals,$10+ billion (USD),131,Central,0,0,0,0,0,0,0,0,0
+Engineer,Valens,Hod HaSharon,-1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+QA,Zoll Medical Corporation,Herzliya,3,0,3,3,3,3,3.4,1001 to 5000 Employees,Company - Private,Manufacturing,1980,Health Care Products Manufacturing,$100 to $500 million (USD),43,Tel Aviv,0,0,0,0,0,0,0,0,1
+QA,Overwolf,Ramat Gan,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2010,Software Development,Unknown / Non-Applicable,13,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,eternitech,Tel Aviv,1,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,0,0,1,0,0,0,0,1,1
+Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Gotfriends,Tel Aviv,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,1,0
+Engineer,WhiteSource,Giv`atayim,4,0,4,3,4,3,4.1,201 to 500 Employees,Company - Private,Information Technology,2011,Enterprise Software & Network Solutions,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,1
+Engineer,Yotpo,Tel Aviv,4,0,3,3,4,3,3.9,501 to 1000 Employees,Company - Private,Information Technology,2011,Computer Hardware Development,Unknown / Non-Applicable,12,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+QA,AudioCodes Limited,Central,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Engineer,Gotfriends,Tel Aviv,4,0,3,3,4,3,4.2,501 to 1000 Employees,Company - Public,Manufacturing,-1,Electronics Manufacturing,$100 to $500 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Other,,,-1,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,,0,0,0,0,0,0,0,0,0
+Other,Boston Consulting Group,Tel Aviv,4,0,4,4,4,4,3.1,10000+ Employees,Company - Private,Management & Consulting,1963,Business Consulting,$5 to $10 billion (USD),60,Tel Aviv,0,0,0,0,0,0,0,0,1
+Software Engineer,Shutterfly,Haifa,3,1,3,3,3,3,3.6,10000+ Employees,Company - Private,Information Technology,1999,Internet & Web Services,$1 to $5 billion (USD),24,Northern,0,0,0,0,0,0,0,0,0
+Developer,Invaya,Herzliya,3,0,2,3,3,2,2.6,51 to 200 Employees,Company - Private,Transportation & Logistics,2010,Taxi & Car Services,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Appdome,Tel Aviv,3,0,3,3,3,3,3.5,51 to 200 Employees,Company - Private,Information Technology,2012,Software Development,Unknown / Non-Applicable,11,Tel Aviv,1,0,1,0,1,0,0,0,0
+Software Engineer,Innovid,Tel Aviv,4,0,3,3,4,4,4.5,201 to 500 Employees,Company - Public,Information Technology,2007,Internet & Web Services,$25 to $100 million (USD),16,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,NeuReality,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Wiliot,Israel,4,1,4,4,4,4,4.4,1 to 50 Employees,Company - Private,Information Technology,2017,Computer Hardware Development,Unknown / Non-Applicable,6,Israel,0,1,0,0,0,0,0,0,1
+Software Engineer,Gini Apps,Herzliya,-1,1,4,3,4,3,4.0,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Proofpoint,Tel Aviv,4,0,3,3,4,4,4.0,1001 to 5000 Employees,Company - Private,Information Technology,2002,Enterprise Software & Network Solutions,$100 to $500 million (USD),21,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Capitolis,Tel Aviv,4,1,4,4,3,3,4.0,51 to 200 Employees,Company - Private,Financial Services,2017,Financial Transaction Processing,Unknown / Non-Applicable,6,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Silverfort,Tel Aviv,4,1,4,4,4,4,4.8,51 to 200 Employees,Company - Private,Information Technology,2016,Enterprise Software & Network Solutions,Unknown / Non-Applicable,7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Pulsenmore,Ramat Gan,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,NetApp,Tel Aviv,4,0,3,4,4,3,4.3,10000+ Employees,Company - Public,Information Technology,1992,Enterprise Software & Network Solutions,$5 to $10 billion (USD),31,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Unleash,Tel Aviv,3,1,-1,-1,-1,-1,-1.0,51 to 200 Employees,Company - Private,Media & Communication,2011,Publishing,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Altair,Israel,4,0,4,4,4,4,4.2,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,0,0,0,0,0
+Software Engineer,WhiteSource,Giv`atayim,4,0,4,3,4,3,4.1,201 to 500 Employees,Company - Private,Information Technology,2011,Enterprise Software & Network Solutions,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,1
+Software Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,1,0,0,0,0
+Software Engineer,Varonis,Herzliya,4,0,4,4,4,3,4.0,1001 to 5000 Employees,Company - Public,Information Technology,2005,Software Development,$100 to $500 million (USD),18,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,AMBITION,Tel Aviv,3,0,4,4,4,4,4.2,201 to 500 Employees,Company - Public,Human Resources & Staffing,1999,HR Consulting,$25 to $100 million (USD),24,Tel Aviv,1,1,0,0,0,0,0,0,1
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Intland Software,Herzliya,4,0,3,3,4,3,4.3,5001 to 10000 Employees,Company - Public,Information Technology,1985,Computer Hardware Development,$1 to $5 billion (USD),38,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,Gotfriends,Israel,4,0,4,4,4,4,3.7,51 to 200 Employees,Unknown,Human Resources & Staffing,-1,Staffing & Subcontracting,Unknown / Non-Applicable,-1,Israel,0,0,1,0,0,0,0,0,0
+Software Engineer,Google,Tel Aviv,4,0,4,4,4,4,4.2,10000+ Employees,Company - Public,Information Technology,1998,Internet & Web Services,$10+ billion (USD),25,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,1,0,0,0
+Software Engineer,Munters,Petah Tikva,3,0,3,3,3,3,3.7,1001 to 5000 Employees,Company - Public,Manufacturing,1955,Machinery Manufacturing,$500 million to $1 billion (USD),68,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,ISI,Yehud,4,0,4,3,4,4,4.8,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Developer,Albert Technologies,Tel Aviv,3,0,3,3,3,3,3.2,1 to 50 Employees,Company - Public,Unknown,-1,Unknown,$1 to $5 million (USD),-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Other,EDC EMBEDDED SYSTEMS,Hod HaSharon,-1,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Developer,Dynamic Yield,Tel Aviv,4,1,3,3,3,3,3.8,51 to 200 Employees,Company - Private,Information Technology,2011,Internet & Web Services,Unknown / Non-Applicable,12,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,DocuSign,Tel Aviv,3,0,3,3,3,3,4.0,5001 to 10000 Employees,Company - Public,Information Technology,2003,Information Technology Support Services,$1 to $5 billion (USD),20,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,eternitech,Tel Aviv,1,0,1,1,1,1,1.0,1 to 50 Employees,Company - Private,Unknown,1993,Unknown,$5 to $25 million (USD),30,Tel Aviv,1,0,1,1,0,0,0,0,0
+Software Engineer,EFI,Rosh Ha`Ayin,3,0,3,2,3,3,3.4,1001 to 5000 Employees,Company - Public,Information Technology,1989,Computer Hardware Development,$1 to $5 billion (USD),34,Central,0,0,0,0,0,0,0,0,1
+Software Engineer,Skai,Tel Aviv,-1,1,-1,-1,-1,-1,-1.0,1 to 50 Employees,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Software Engineer,Mend,Giv`atayim,4,1,4,3,3,3,4.0,1 to 50 Employees,Company - Private,Healthcare,2014,Health Care Services & Hospitals,Unknown / Non-Applicable,9,Tel Aviv,0,0,0,0,0,0,0,0,1
+Developer,PRIMIS,Tel Aviv,4,0,4,3,3,3,3.2,51 to 200 Employees,Company - Private,Media & Communication,2007,Advertising & Public Relations,Unknown / Non-Applicable,16,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,ART Medical,Netanya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Other,Red Hat Software,Raanana,4,0,4,4,4,4,4.3,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Developer,Veeva Systems,Tel Aviv,4,0,3,3,4,3,3.8,5001 to 10000 Employees,Company - Public,Information Technology,2007,Enterprise Software & Network Solutions,$1 to $5 billion (USD),16,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,ART MEDICAL Ltd,Netanya,4,1,4,4,4,4,4.3,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,1,0,0,0,1,0,0
+Developer,BMC Software,Tel Aviv,4,0,3,4,4,3,4.0,5001 to 10000 Employees,Company - Private,Information Technology,1980,Enterprise Software & Network Solutions,$1 to $5 billion (USD),43,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,HCL Technologies,Israel,3,0,3,3,3,3,3.7,10000+ Employees,Company - Public,Information Technology,1991,Computer Hardware Development,$10+ billion (USD),32,Israel,0,0,0,0,0,0,0,0,0
+Developer,BMC Software,Tel Aviv,4,0,3,4,4,3,4.0,5001 to 10000 Employees,Company - Private,Information Technology,1980,Enterprise Software & Network Solutions,$1 to $5 billion (USD),43,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,ZoomInfo Technologies LLC,Raanana,3,1,4,3,3,3,3.3,1001 to 5000 Employees,Company - Public,Information Technology,2007,Software Development,$1 to $5 billion (USD),16,Central,0,0,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,1,0,0,0,1,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,1,1,0,0,0,0,1,1,0
+Student/Intern,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Software Engineer,mPrest Systems,Petah Tikva,3,0,3,2,2,3,3.1,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Developer,ווין ג׳ובס,Tel Aviv,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,ART Medical,Netanya,4,0,4,4,4,4,4.3,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,1,0,0,0,0,0,0,0
+Student/Intern,Google,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,CPS Jobs,Tel Aviv,2,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,1,0,0,0
+Other,Red Hat Software,Raanana,4,0,4,3,4,3,4.3,10000+ Employees,Company - Public,Information Technology,1993,Enterprise Software & Network Solutions,$1 to $5 billion (USD),30,Central,0,1,0,0,0,0,0,0,0
+Developer,Razor Labs,Tel Aviv,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Pagaya Israel,Tel Aviv,3,1,3,3,3,2,3.4,501 to 1000 Employees,Company - Public,Financial Services,2016,Banking & Lending,$500 million to $1 billion (USD),7,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Developer,Moon Active,Tel Aviv,4,0,4,4,4,4,3.9,1001 to 5000 Employees,Company - Private,Information Technology,2011,Internet & Web Services,Unknown / Non-Applicable,12,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Tipalti,Tel Aviv,3,1,3,3,3,3,4.0,501 to 1000 Employees,Company - Private,Information Technology,2010,Enterprise Software & Network Solutions,Unknown / Non-Applicable,13,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,קבוצת יעל,Tel Aviv,4,0,4,3,3,4,4.4,1001 to 5000 Employees,Company - Private,Information Technology,1963,Information Technology Support Services,Unknown / Non-Applicable,60,Tel Aviv,0,0,1,1,0,1,0,1,1
+Student/Intern,Typemock,Israel,-1,0,2,3,2,2,3.3,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Israel,0,1,0,0,1,0,0,0,0
+Student/Intern,CPS Jobs,Tel Aviv,2,0,3,1,2,2,3.6,1 to 50 Employees,Company - Private,Human Resources & Staffing,-1,HR Consulting,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Navan,Tel Aviv,3,1,3,3,3,2,3.0,1001 to 5000 Employees,Company - Private,Information Technology,2015,Computer Hardware Development,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,PRIMIS,Tel Aviv,4,0,4,3,3,3,3.2,51 to 200 Employees,Company - Private,Media & Communication,2007,Advertising & Public Relations,Unknown / Non-Applicable,16,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Cato Networks,Tel Aviv,4,1,4,4,4,4,4.0,51 to 200 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Candex,Tel Aviv,3,1,3,4,3,3,3.9,1 to 50 Employees,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,FrontStory,Tel Aviv,4,1,4,4,4,4,4.4,1 to 50 Employees,Company - Private,Media & Communication,2012,Publishing,Unknown / Non-Applicable,11,Tel Aviv,0,1,0,0,0,0,0,0,0
+QA,Pentera,Petah Tikva,4,1,4,4,4,4,4.5,51 to 200 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Central,0,1,0,0,0,0,0,0,0
+Developer,Razor Labs,Tel Aviv,-1,1,3,2,2,2,3.1,51 to 200 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Student/Intern,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Connecteam,Tel Aviv,4,1,3,3,4,3,3.3,51 to 200 Employees,Company - Private,Information Technology,2005,Computer Hardware Development,$5 to $25 million (USD),18,Tel Aviv,0,1,0,0,0,1,0,0,0
+Software Engineer,Innovid,Tel Aviv,4,0,3,3,4,4,4.5,201 to 500 Employees,Company - Public,Information Technology,2007,Internet & Web Services,$25 to $100 million (USD),16,Tel Aviv,0,1,0,0,0,0,0,0,1
+Developer,Similarweb,Giv`atayim,3,0,3,3,3,2,3.0,501 to 1000 Employees,Company - Public,Information Technology,2008,Internet & Web Services,Unknown / Non-Applicable,15,Tel Aviv,0,1,0,0,0,0,0,0,1
+Other,NeuReality,Tel Aviv,-1,0,-1,-1,-1,-1,-1.0,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,JobInfo,Tel Aviv,3,0,3,3,1,2,4.2,51 to 200 Employees,Company - Private,Information Technology,1999,Computer Hardware Development,Unknown / Non-Applicable,24,Tel Aviv,0,0,0,0,0,1,1,0,0
+Engineer,Cato Networks,Tel Aviv,4,1,4,4,4,4,4.0,51 to 200 Employees,Company - Private,Information Technology,2015,Enterprise Software & Network Solutions,Unknown / Non-Applicable,8,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,Ultima Genomics,Tel Aviv,3,0,3,3,3,3,3.5,Unknown,Company - Private,Manufacturing,-1,Machinery Manufacturing,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Software Engineer,NCR,Raanana,3,0,3,3,3,3,3.4,10000+ Employees,Company - Public,Information Technology,1884,Enterprise Software & Network Solutions,$5 to $10 billion (USD),139,Central,0,1,0,0,0,0,0,0,0
+Software Engineer,Microsoft,Tel Aviv,4,0,4,4,4,3,4.1,10000+ Employees,Company - Public,Information Technology,1975,Computer Hardware Development,$10+ billion (USD),48,Tel Aviv,0,1,0,0,0,0,0,1,0
+Software Engineer,LightForce Orthodontics,Tel Aviv,5,1,5,5,5,5,5.0,Unknown,Company - Public,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,1
+Student/Intern,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,PlainID,Tel Aviv,4,0,4,4,4,3,4.1,1 to 50 Employees,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,1,0,0,1,0,0,0
+Engineer,FORTVISION,Tel Aviv,3,0,4,4,4,4,4.1,Unknown,Company - Private,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,1,0,0,0,0,0,0,0
+Developer,Check Point Software Technologies Ltd.,Tel Aviv,3,0,3,3,3,3,3.9,5001 to 10000 Employees,Company - Public,Information Technology,1993,Software Development,$1 to $5 billion (USD),30,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Fiverr,Tel Aviv,4,1,4,3,4,4,4.1,201 to 500 Employees,Company - Public,Personal Consumer Services,2010,Consumer Product Rental,$1 to $5 million (USD),13,Tel Aviv,0,0,0,0,0,0,0,1,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Microsoft,Tel Aviv,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Atomic-growth.com,Ramat Gan,-1,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Engineer,Yotpo,Tel Aviv,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Student/Intern,Pulsenmore,Ramat Gan,-1,1,3,3,4,3,3.9,501 to 1000 Employees,Company - Private,Information Technology,2011,Computer Hardware Development,Unknown / Non-Applicable,12,Tel Aviv,0,1,0,0,0,0,0,0,0
+Engineer,Apple,Herzliya,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Tel Aviv,0,0,0,0,0,0,0,0,0
+Software Engineer,Shutterfly,Haifa,3,1,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Northern,0,0,0,0,0,0,0,0,0
+Student/Intern,NCR,Raanana,3,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,SAP,Raanana,4,0,3,3,3,3,3.4,10000+ Employees,Company - Public,Information Technology,1884,Enterprise Software & Network Solutions,$5 to $10 billion (USD),139,Central,0,1,0,0,0,0,0,0,1
+Student/Intern,Apple,Herzliya,4,0,3,3,3,3,3.4,10000+ Employees,Company - Public,Information Technology,1884,Enterprise Software & Network Solutions,$5 to $10 billion (USD),139,Tel Aviv,0,1,0,0,0,0,0,0,1
+Student/Intern,SAP,Raanana,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,NCR,Raanana,3,0,4,4,4,4,4.3,10000+ Employees,Company - Public,Information Technology,1972,Enterprise Software & Network Solutions,$10+ billion (USD),51,Central,0,0,0,0,0,0,0,0,0
+Student/Intern,Hewlett Packard Enterprise,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Altair,Israel,4,0,3,3,4,3,4.2,10000+ Employees,Company - Public,Information Technology,2015,Information Technology Support Services,Unknown / Non-Applicable,8,Israel,0,0,0,0,0,0,0,0,0
+Student/Intern,Apple,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
+Developer,Altair,Israel,4,0,3,4,4,3,3.6,10000+ Employees,Company - Public,Information Technology,1976,Computer Hardware Development,$10+ billion (USD),47,Israel,0,1,0,0,0,0,0,0,0
+Student/Intern,Intland Software,Herzliya,4,0,-1,-1,-1,-1,-1.0,Unknown,Unknown,Unknown,-1,Unknown,Unknown / Non-Applicable,-1,Tel Aviv,0,0,0,0,0,0,0,0,0
