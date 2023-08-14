@@ -8,7 +8,7 @@
 * Hosted using Firebase with Firestorage containing the scraped data
 * **Link to the project: [JobFlow - Israel](https://jobflow-israel.web.app)**
 ## Files:
-  ### glass_door_scaper.py
+  ### glass_door_scraper.py
 * Script scraping the data from GlassDoor (optimized for August 2023) using Selenium
 * With each job post, we got the following:
   * Title
@@ -27,9 +27,11 @@
     * Revenue
   * Location
   * Easy - Apply
+### *.csv files
+  * Csv files with data from glass_door_scraper.py.
 ### delete_duplicates.py
-* Simple script for deleting duplicate values from scraped data and merging it to signle csv file
-### data_cleaning.py
+* Simple script for deleting duplicate values from scraped data and merging it to signle csv file all_jobs.csv
+### data_cleaning.ipynb
 After scraping the data, I needed to clean it up. I made the following changes
 * Converted columns to approproate datatypes
 * Performed analysis of job titles
@@ -42,6 +44,7 @@ After scraping the data, I needed to clean it up. I made the following changes
   ![image](https://github.com/Qehbr/JobFlow-Israel/assets/49615282/6f0fe379-4e42-4415-ad88-62c76d1f5743)
   ![image](https://github.com/Qehbr/JobFlow-Israel/assets/49615282/5aa5262a-c654-45a3-8c28-e04ddc4ed2e7)
 * Performed feature extraction to check if description has specific keywords (AI, Python, Java, JavaScript, C++, React, SQL, AWS, GIT)
+
 ### React Files 
 * Containing React App with visualizing the results, more graphs can be seen here: [JobFlow - Israel](https://jobflow-israel.web.app)
 ## Deploying
