@@ -1,0 +1,10 @@
+/* Graph.css */
+.inline-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Style the h3 element */
+  h3 {
+    margin-right: 10px;
+  }

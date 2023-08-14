@@ -1,0 +1,51 @@
+/* IntroSection.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.intro-section {
+  background: rgba(255, 255, 255, 0);
+  padding: 250px 0 100px; /* Adjust the padding-top value */
+  text-align: center;
+}
+
+.intro-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.intro-description {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.get-started-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #1c2680;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.get-started-button:hover {
+  background-color: #080c53;
+}
+
+.intro-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
